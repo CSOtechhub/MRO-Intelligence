@@ -1,0 +1,5 @@
+{
+  "name": "NAS MRO Intelligence",
+  "description": "Single-user MRO lifecycle intelligence, production forecasts, executive summaries, and grounded Gemini chat.",
+  "requestFramePermissions": []
+}
